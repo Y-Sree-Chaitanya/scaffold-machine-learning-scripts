@@ -1,0 +1,14 @@
+#tar files
+*.tar.gz
+
+#jupyter notebbok checkpoints
+.ipynb_checkpoints
+
+#Python compiled files
+**/.pyc
+.pyc
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
