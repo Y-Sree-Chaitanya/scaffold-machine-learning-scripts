@@ -4,6 +4,8 @@
 #jupyter notebbok checkpoints
 .ipynb_checkpoints
 
+data/for_testing
+
 #Python compiled files
 **/.pyc
 .pyc
