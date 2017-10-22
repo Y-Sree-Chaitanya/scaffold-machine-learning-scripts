@@ -5,6 +5,8 @@
 .ipynb_checkpoints
 
 data/for_testing
+data/test.csv
+data/train.csv
 
 #Python compiled files
 **/.pyc
